@@ -9,7 +9,7 @@
 
 ## 🇪🇸 Sobre Mí
 
-¡Hola! Soy **Eduardo Enrique Barrios Carballo**, Ingeniero en Informática recién graduado de la **UNELLEZ** (Venezuela). Me apasiona el desarrollo de software, la resolución de problemas técnicos y la creación de aplicaciones web y móviles funcionales y escalables.
+¡Hola! Soy **Eduardo Barrios**, Ingeniero en Informática. Me apasiona el desarrollo de software, la resolución de problemas técnicos y la creación de aplicaciones web y móviles funcionales y escalables.
 
 - 🎓 **Educación**: Graduado de Ingeniería en Informática (Promedio: 4.19 / 5.0).
 - 💼 **Experiencia Práctica**: Desarrollé e implementé un **Sistema Integral de Control de Inventarios** durante mi pasantía en **PDVSA**, abarcando todo el ciclo de vida del software (metodología RUP, PHP, JS, MySQL, pruebas de usuario y documentación técnica).
@@ -56,22 +56,13 @@ Hi! I'm **Eduardo Barrios**, a Computer & Informatics Engineer based in Venezuel
 
 ---
 
-## 📊 Estadísticas de GitHub / GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de GitHub" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=tokyonight" alt="Lenguajes más usados" width="48%" />
-</p>
-
----
-
 ## 📫 Contacto / Contact Me
 
 - ✉️ **Email**: [Edu.ve1524@gmail.com](mailto:Edu.ve1524@gmail.com)
 - 📱 **WhatsApp**: [+58 424-5406694](https://wa.me/584245406694)
-- 📍 **Ubicación / Location**: Barinas, Venezuela 🇻🇪
-- 💼 **LinkedIn**: [linkedin.com/in/tu-perfil](https://linkedin.com) *(reemplaza con tu enlace)*
-- 🌐 **Upwork**: [upwork.com/freelancers/tu-perfil](https://upwork.com) *(reemplaza con tu enlace)*
+- 📍 **Ubicación / Location**: Venezuela 🇻🇪
+- 💼 **LinkedIn**: [www.linkedin.com/in/eduardo-barrios-405717398) *(reemplaza con tu enlace)*
+- 🌐 **Upwork**: [https://www.upwork.com/freelancers/~0150cec57514aa70a6) *(reemplaza con tu enlace)*
 
 ---
 <p align="center">
