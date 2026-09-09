@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Ingeniero en Informática | Junior Software Developer | Full Stack & Mobile Developer</b><br>
-  📍 Barinas, Venezuela 🇻🇪 | 🗣️ Español (Nativo) & English (B2) | 💼 Disponible para Trabajo Remoto / Reubicación
+  📍 Barinas, Venezuela 🇻🇪 | 🗣️ Español (Nativo) & English (B2) 
 </p>
 
 ---
@@ -11,11 +11,9 @@
 
 ¡Hola! Soy **Eduardo Barrios**, Ingeniero en Informática. Me apasiona el desarrollo de software, la resolución de problemas técnicos y la creación de aplicaciones web y móviles funcionales y escalables.
 
-- 🎓 **Educación**: Graduado de Ingeniería en Informática (Promedio: 4.19 / 5.0).
+- 🎓 **Educación**: Graduado de Ingeniería en Informática.
 - 💼 **Experiencia Práctica**: Desarrollé e implementé un **Sistema Integral de Control de Inventarios** durante mi pasantía en **PDVSA**, abarcando todo el ciclo de vida del software (metodología RUP, PHP, JS, MySQL, pruebas de usuario y documentación técnica).
 - 🚀 **Stack Principal**: React, Next.js, React Native (Expo), PHP, JavaScript/TypeScript, MySQL, PostgreSQL y Supabase.
-- 🐧 **Entorno de Trabajo**: Usuario activo de **Debian Linux** para entorno local, administración de servidores web/bases de datos y automatización.
-- 🎯 **Objetivo**: Unirme a equipos de desarrollo como **Junior Software Developer, Web Developer, Mobile Developer o Full Stack Developer**.
 
 ---
 
@@ -61,8 +59,8 @@ Hi! I'm **Eduardo Barrios**, a Computer & Informatics Engineer based in Venezuel
 - ✉️ **Email**: [Edu.ve1524@gmail.com](mailto:Edu.ve1524@gmail.com)
 - 📱 **WhatsApp**: [+58 424-5406694](https://wa.me/584245406694)
 - 📍 **Ubicación / Location**: Venezuela 🇻🇪
-- 💼 **LinkedIn**: [www.linkedin.com/in/eduardo-barrios-405717398) *(reemplaza con tu enlace)*
-- 🌐 **Upwork**: [https://www.upwork.com/freelancers/~0150cec57514aa70a6) *(reemplaza con tu enlace)*
+- 💼 **LinkedIn**: www.linkedin.com/in/eduardo-barrios-405717398
+- 🌐 **Upwork**: https://www.upwork.com/freelancers/~0150cec57514aa70a6
 
 ---
 <p align="center">
